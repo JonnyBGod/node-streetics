@@ -1,0 +1,19 @@
+{ "name": "streetics"
+, "version": "v0.0.1"
+, "description": "Twitter API client library for node.js"
+, "keywords": ["streetics","api"]
+, "homepage": "https://github.com/JonnyBGod/node-streetics"
+, "author": "JonnyBGod"
+, "licenses":
+  [ { "type": "MIT"
+    , "url": "http://github.com/JonnyBGod/node-streetics/raw/master/LICENSE"
+  } ]
+, "repository":
+  { "type": "git"
+  , "url": "http://github.com/JonnyBGod/node-streetics.git"
+  }
+, "dependencies":
+  {}
+, "engines": ["node >=0.6.0"]
+, "main": "./lib/streetics"
+}

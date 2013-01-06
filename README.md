@@ -1,7 +1,7 @@
 Streetics API client library for node.js
 ======================================
 
-[node-streetics](https://github.com/JonnyBGod/node-streetics) aims to provide a complete, asynchronous client library for the Streetics API services (http>//streetics.com/en/content/api).
+[node-streetics](https://github.com/JonnyBGod/node-streetics) aims to provide a complete, asynchronous client library for the Streetics API services (http://streetics.com/en/content/api).
 
 ## Requirements
 

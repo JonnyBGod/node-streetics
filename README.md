@@ -61,3 +61,6 @@ It's early days for node-streetics, so I'm going to assume a fair amount of know
 
 - Add premium services as described at (http://streetics.com/en/content/services)
 - Fix ALL THE THINGS! on the GitHub [issues list](https://github.com/JonnyBGod/node-streetics/issues)
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/JonnyBGod/node-streetics/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
